@@ -1,5 +1,5 @@
 import os
-import selenium
+pip install selenium
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
