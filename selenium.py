@@ -1,5 +1,6 @@
 import os
 pip install selenium
+wait(10)
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
