@@ -1,4 +1,4 @@
-# rbxtuxedo-payout-bot
+# RBXTuxedo API
 
 What is RbxTuxedo? It's a free robux (cringe lmao) website where in order to get free robux, you do relatively
 easy offers for free robux. We currently rely on offerwalls such as AdGate, OfferToro and etc,
