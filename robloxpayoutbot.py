@@ -23,8 +23,8 @@ gamepass_id = (input('Input gamepass ID: ')) # (Deprecated code)
 
 # Replace with your Roblox username and password
 
-roblox_username = ("ElizabethCalderon9")
-roblox_password = ("MalitoMalito1")
+roblox_username = ("BLANK")
+roblox_password = ("BLANKSBLANKS1234")
 
 # Create a WebDriver instance
 
