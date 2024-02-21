@@ -2,6 +2,7 @@
 # Credits: 
 # Kyukyaku (Nerability) (Owner of RBX Tuxedo) (Made most of the script)
 # Olivezzz (Fixed bugs and added the insufficient robux notificator, dynamic gamepass id (deprecated)(original is the deprecated code above the current gamepass id) and decline cookies button.)
+# Place your webdriver in the same directory that your script is located in or else it wont work :)
 # Ok so, ## = Buggy code that im not fixing yet.
 
 import os # Imports the Operating System
