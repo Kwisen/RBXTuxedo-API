@@ -12,4 +12,4 @@ please write to us in discord or our email (inprogress)
 Contact: kyukyaku (discord)
 Contact: (blank) (email)
 
-Everyone is welcomed to make improvements to this script in issues or pull requests, Ty have a nice day!
+Everyone is free to chip in to make improvements to this script in issues or pull requests, Ty have a nice day!
